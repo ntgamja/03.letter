@@ -12,7 +12,7 @@ btn.addEventListener("click",(e)=>{
     inp=input.value
     if(inp=="원세은"){
         console.log("1")
-        window.location.href = "./main/main.html";
+        window.location.href = "./main.html";
 
     } 
     if(inp=="나현채"){
