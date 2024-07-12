@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Noto Serif KR", serif;
+}
+
+
+.noto-serif-kr-nanum {
+    font-family: "Noto Serif KR", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+  
+
+button{
+    background-color:firebrick;
+    width: 80px;
+    height: 30px;
+    border-radius: 15px;
+    margin: 1vw;
+    border: 0;
+    color: bisque;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:beige;
+}
+
+.container{
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    background-color:bisque;
+    padding: 5vw;
+    flex-direction: column;
+}
