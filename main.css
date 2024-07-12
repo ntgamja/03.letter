@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Noto Serif KR", serif;
+    font-size: large;
+}
+
+
+div{
+    width: 80vw;
+    height: 170vh;
+    background-color: bisque;
+    padding: 5vw;
+}
+
+.noto-serif-kr-nanum {
+    font-family: "Noto Serif KR", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+  
+
+body{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 200vh;
+}
